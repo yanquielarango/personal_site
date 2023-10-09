@@ -6,7 +6,7 @@
         <section class="pt-14  xl:pt-20">
             <div class="gap-8 px-4 flex flex-col md:flex-row items-center max-w-6xl container mx-auto">
                 <div class="md:flex-1 md:order-2  drop-shadow-[8px_-9px_0_rgba(109,40,217,1)]  md:drop-shadow-[12px_-13px_0_rgba(109,40,217,1)] overflow-hidden">
-                    <img  src="@/assets/hero.jpg" class=" w-full md:w-[450px]  border-black md:rounded-tl-[150px] md:rounded-br-[150px]  lg:w-[35rem]"/>
+                    <img  src="/img/hero.jpg" class=" w-full md:w-[450px]  border-black md:rounded-tl-[150px] md:rounded-br-[150px]  lg:w-[35rem]"/>
                 </div>
 
                 <div class="flex-1">
